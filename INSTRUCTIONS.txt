@@ -1,7 +1,7 @@
 yii-simple-player
 =================
 
-yiiSimplePlayer - extension for yii framework. Very simple audio player
+yii-simple-player - extension for yii framework. Very simple audio player
 
 INSTALL
 
@@ -20,7 +20,7 @@ USAGE
 2.Run widget:
 
 <?php
-	$this->widget('ext.yiiSimplePlayer.SimplePlayer', array(
+	$this->widget('ext.yii-simple-player.SimplePlayer', array(
 		'id' => 'player',
 		'width' => '200px',
 		'height' => '20px',
