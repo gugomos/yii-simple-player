@@ -1,7 +1,7 @@
 yii-simple-player
 =================
 
-yiiSimplePlayer - extension for yii framework. Very simple audio player
+yii-simple-player - extension for yii framework. Very simple audio player
 
 INSTALL
 
