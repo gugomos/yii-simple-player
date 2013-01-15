@@ -48,7 +48,7 @@ class SimplePlayer extends CWidget
 	//подключение jquery и SimplePlayer
 	protected function myScripts()
 	{
-		$assets=dirname(__FILE__).'/assets';
+		$assets=dirname(__FILE__).DIRECTORY_SEPARATOR.'assets';
 		$baseUrl=Yii::app()->assetManager->publish($assets);
 		if(is_dir($assets))
 		{
